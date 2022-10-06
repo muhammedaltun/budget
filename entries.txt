@@ -1,0 +1,11 @@
+12-2-2022;Education;212.5;Lira;what is that for?;
+2-6-2022;Bills;12.56;Euro;Billy billy bills;
+11-11-2022;Income;1000;Dollar;This is it.;
+7-10-2022;Health;162.8;Dollar;health is important;
+23-8-2022;Income;65.95;Euro;you owe me.;
+31-3-2022;Education;12.9;Euro;I love education.;
+25-12-2022;Fun;236.8;Lira;It is possible.;
+27-5-2022;Income;123.5;Euro;This is not enough. What were you really thinking?;
+30-6-2022;Clothing;981.7;Euro;no clothes no life;
+30-4-2022;Health;123.5;Euro;never take notes;
+12-2-2022;Fun;233.4;Lira;fundamental;
